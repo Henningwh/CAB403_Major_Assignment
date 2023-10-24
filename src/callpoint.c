@@ -6,4 +6,4 @@ struct {
 
 struct {
     char header[4]; // {'F', 'I', 'R', 'E'}
-};
+}; 
