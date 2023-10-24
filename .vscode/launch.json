@@ -32,8 +32,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/hakonjunge/Documents/GitHub/CAB403_Major_Assignment/src",
-      "program": "/Users/hakonjunge/Documents/GitHub/CAB403_Major_Assignment/src/build/Debug/outDebug"
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
     }
   ]
 }
